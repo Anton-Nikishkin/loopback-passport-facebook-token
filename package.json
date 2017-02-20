@@ -1,0 +1,20 @@
+{
+  "name": "loopback-passport-facebook-token",
+  "version": "0.0.1",
+  "description": "Facebook token authorization strategy compatible with loopback-component-passport (loopback.io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "loopback",
+    "facebook",
+    "strategy"
+  ],
+  "author": "Anton Nikishkin <nikishkin.anton@gmail.com> (“http://www.nikishkin.com)",
+  "license": "MIT",
+  "dependencies": {
+    "passport-facebook-token": "^3.3.0"
+  }
+}
